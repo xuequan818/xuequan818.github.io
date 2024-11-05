@@ -9,10 +9,13 @@ main:
     url: /publications/
 
   - title: "Conferences"
-    url: /conferences/    
+    url: /conferences/ 
+
+  - title: "Softwares"
+    url: /softwares/   
 
  # - title: "Teaching"
 #  url: /teaching/    
     
   - title: "CV"
-    url: CV.pdf
+    url: http://academicpages.github.io/files/CV.pdf

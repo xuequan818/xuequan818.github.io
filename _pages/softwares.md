@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Julia Packages"
+title: "Julia packages"
 permalink: /softwares/
 author_profile: true
 ---

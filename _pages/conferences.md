@@ -15,4 +15,4 @@ author_profile: true
 *	Aug. 3, 2023, Mathematics of Material Science Informal Seminar, Louisiana State University, Baton Rouge, USA
 
 ## Posters
-* Nov. 26 - Nov. 28, 2024, Julia for Numerical Problems in Quantum and Solid-state Physics Workshop, CECAM HQ, Lausanne, Switzerland.
+* Nov. 26 - 28, 2024, Julia for Numerical Problems in Quantum and Solid-state Physics Workshop, CECAM HQ, Lausanne, Switzerland.
